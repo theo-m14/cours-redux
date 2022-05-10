@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "author": "Patrice",
+      "id": "1",
+      "likes": 33
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet dolor sit amet",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "author": "Samia",
+      "id": "2",
+      "likes": 21
+    },
+    {
+      "title": "Lorem ipsum dolor",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti!Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "author": "Denis",
+      "id": "3",
+      "likes": 112
+    },
+    {
+      "title": "gerg",
+      "content": "rgrgrgggg",
+      "id": "o1UBFyI",
+      "likes": 44
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "user42",
+      "likes": 27,
+      "id": 1
+    }
+  ]
+}
